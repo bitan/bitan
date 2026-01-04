@@ -4,7 +4,7 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-<h1 align="center">Namaste 🙏 — I'm <span style="color:#58a6ff">Bitan</span></h1>
+<h1 align="center">I'm <span style="color:#58a6ff">Bitan</span></h1>
 
 <p align="center">
   Welcome to my GitHub — explore, fork, learn, and don't forget to ⭐
