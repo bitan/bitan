@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <!-- replace ./banner.png with your uploaded image path -->
-  <img src="./banner.png" width="100%" />
+  <img src="./banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">I'm <span style="color:#58a6ff">Bitan</span></h1>
